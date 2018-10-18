@@ -60,3 +60,36 @@ body{
 #video-play a {
   color: #fff;
 }
+#page-header {
+  height: 200px;
+  background: url('../images/globe.jpg');
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  color: black;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+.about-img {
+  margin-top: -50px;
+}
+
+#faq .card {
+  border: black;
+}
+
+#faq a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+}
+
+#main-footer {
+  background: #000;
+  color: #fff;
+}
+
+
